@@ -1,3 +1,9 @@
 # schoolbook-filterlist
 
-[Click Here](https://subscribe.adblockplus.org/?location=https://gist.githubusercontent.com/Naviamold1/6aab51ae944b67dbe494aaf63da10643/raw/f6eb795bc39db25e156a74ed402a859b71ea2a04/schoolbook-filterlist.txt&title=SchooolBook-FilterList) to add this filter list to your Adblocker
+> [uBlock Origin](https://ublockorigin.com/) filter list for [SchoolBook](https://schoolbook.ge/) to block ads
+
+| Type                                                                                                             | Meaning                        |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| [Full](https://raw.githubusercontent.com/Naviamold1/schoolbook-filterlist/main/full-schoolbook-filterlist)       | Block Every Ad on page         |
+| ------                                                                                                           | -----                          |
+| [partial](https://raw.githubusercontent.com/Naviamold1/schoolbook-filterlist/main/partial-schoolbook-filterlist) | Doesn't Block the popup banner |
